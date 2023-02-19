@@ -2,7 +2,7 @@ import telebot
 from telebot import types
 import random
 
-bot = telebot.TeleBot('6038350555:AAGB5o5j2-JWzVOXT7ZbZ-OrVH4Jru084LA')
+bot = telebot.TeleBot('6035859101:AAEjqd24_RcN8fblJ_ZsS6ZD1_T3s1a34BI')
 
 chapter = {}
 
